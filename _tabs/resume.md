@@ -12,7 +12,7 @@ order: 3
     <div class="contact-info">
       <p class="mb-1">
         <i class="fas fa-envelope mr-2"></i>
-        <a href="mailto:xuxing@whut.edu.cn">xuxing@whut.edu.cn</a>
+        <a href="mailto:994091261@qq.com">994091261@qq.com</a>
       </p>
       <p class="mb-1">
         <i class="fas fa-university mr-2"></i>
@@ -107,7 +107,7 @@ order: 3
   <tr>
     <td><i class="fas fa-envelope"></i></td>
     <td>电子邮箱</td>
-    <td><a href="mailto:xuxing@whut.edu.cn">xuxing@whut.edu.cn</a></td>
+    <td><a href="mailto:994091261@qq.com">994091261@qq.com</a></td>
   </tr>
   <tr>
     <td><i class="fas fa-map-marker-alt"></i></td>
