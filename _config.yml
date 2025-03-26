@@ -150,8 +150,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-url: ""
-baseurl: "/star-learning.github.io"
+url: "https://star-learning.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
