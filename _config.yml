@@ -152,7 +152,7 @@ paginate: 10
 
 # The base URL of your site
 url: "https://Star-Learning.github.io"
-baseurl: "/star-learning"
+baseurl: "/star-learning.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
