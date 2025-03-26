@@ -107,7 +107,7 @@ order: 3
   <tr>
     <td><i class="fas fa-envelope"></i></td>
     <td>电子邮箱</td>
-    <td><a href="xuxing@whut.edu.cn">xuxing@whut.edu.cn</a></td>
+    <td><a href="mailto:xuxing@whut.edu.cn">xuxing@whut.edu.cn</a></td>
   </tr>
   <tr>
     <td><i class="fas fa-map-marker-alt"></i></td>
