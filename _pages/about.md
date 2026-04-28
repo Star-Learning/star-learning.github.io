@@ -69,8 +69,7 @@ Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and 
 </div>
 
 # 📖 Academic Services
-- **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** 审稿人
-- **Remote Sensing** 审稿人
+
 
 # 🎖 Honors and Awards
 - *2024*: 优秀毕业生党员
@@ -87,5 +86,6 @@ Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and 
 - *2015*: 国家奖学金
 
 # 📖 Educations
+- *2021.09 - 至今*: 中国科学技术大学，软件工程，博士在读
 - *2021.09 - 2024.06*: 武汉理工大学，地理学，硕士
-- *2015.09 - 2019.06*: 本科
+- *2017.09 - 2021.06*: 武汉理工大学，地理信息科学，本科
