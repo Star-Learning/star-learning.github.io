@@ -17,42 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+北京数字政通科技股份有限公司 AI算法工程师。硕士毕业于武汉理工大学，地理学专业。
+主要研究方向为遥感语义分割、地理场景知识图谱、图神经网络、时空数据挖掘、AI4Science。
+在 IEEE TGRS、Remote Sensing 等期刊上发表多篇论文。致力于将深度学习技术应用于遥感、GIS、时空预测等领域。
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉 加入北京数字政通科技股份有限公司，担任AI算法工程师。
+- *2024.06*: &nbsp;🎉 硕士毕业，获武汉理工大学硕士学位。
+- *2022.10*: &nbsp;🎉 获国家奖学金。
+- *2021.09*: &nbsp;🎉 考入武汉理工大学攻读硕士学位。
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Cui W, **Xu X**, Chen J, et al. [Representation of Multi-Relations of Geographic Scenes Based on Hyperbolic Space](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+- Cui, Wei, Yuanjie Hao, **Xing Xu**, Zhanyun Feng, Huilin Zhao, Cong Xia, and Jin Wang. [Remote Sensing Scene Graph and Knowledge Graph Matching with Parallel Walking Algorithm](https://www.mdpi.com/2072-4292/14/19/4872)[J]. *Remote Sensing* 14, no. 19: 4872, 2022.
+- Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and Chenglei Wang. [Long-Tailed Effect Study in Remote Sensing Semantic Segmentation Based on Graph Kernel Principles](https://www.mdpi.com/2072-4292/16/8/1398)[J]. *Remote Sensing* 16, no. 8: 1398, 2024.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📖 Academic Services
+- **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** 审稿人
+- **Remote Sensing** 审稿人
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: &nbsp; 优秀毕业生党员
+- *2022*: &nbsp; 国家奖学金、校三好学生
+- *2022*: &nbsp; 第十一届"中国软件杯"大学生软件设计大赛-遥感图像智能解译平台赛道国家三等奖
+- *2022*: &nbsp; 高通人工智能创新应用大赛季军
+- *2022/2018*: &nbsp; 全国大学生英语竞赛三等奖（研/本）
+- *2021*: &nbsp; 一等学业奖学金（研究生入学考试第一名）
+- *2021*: &nbsp; 亚马逊·人工智能技术应用大赛三等奖
+- *2021*: &nbsp; 优秀毕业论文：基于辅助信息和图神经网络的遥感模式识别
+- *2019*: &nbsp; 遥感影像稀疏表征与智能分析竞赛二等奖
+- *2016*: &nbsp; 优秀毕业生
+- *2016*: &nbsp; 优秀毕业论文奖
+- *2015*: &nbsp; 国家奖学金
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - 2024.06*: &nbsp; 武汉理工大学，地理学，硕士
+- *2015.09 - 2019.06*: &nbsp; 本科

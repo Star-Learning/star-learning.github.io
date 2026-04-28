@@ -1,17 +1,17 @@
 
 <h1 align="center">
-AcadHomepage
+续兴 (Xing Xu)
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![](https://img.shields.io/github/stars/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io)
+[![](https://img.shields.io/github/forks/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io)
+[![](https://img.shields.io/github/issues/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io)
+[![](https://img.shields.io/github/license/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io/blob/main/LICENSE)
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+<p align="center">AI算法工程师 · 遥感语义分割 · 地理场景知识图谱</p>
 
 <p align="center">
     <br>
@@ -19,9 +19,7 @@ AcadHomepage
     <br>
 </p>
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+个人主页：<https://star-learning.github.io/>
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
