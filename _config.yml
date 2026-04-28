@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xing Xu (续兴)"
-  avatar           : "images/avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "AI for Earth · Spatial Temporal Data Analysis · LLM Agent"
   location         : "Suzhou, Jiangsu, China"
   employer         :

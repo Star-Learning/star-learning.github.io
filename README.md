@@ -2,4 +2,4 @@
 
 <p align="center">AI · Earth Science · Spatial Temporal Data Analysis</p>
 
-<p align="center"><a href="https://star-learning.github.io/">https://star-learning.github.io/</a></p>
+<p align="center"><a href="https://star-learning.github.io/resume/">https://star-learning.github.io/resume/</a></p>

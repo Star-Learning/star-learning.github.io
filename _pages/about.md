@@ -32,7 +32,7 @@ redirect_from:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2024</div><img src='images/IEEE_TGRS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2024</div><img src='/images/IEEE_TGRS_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Representation of Multi-Relations of Geographic Scenes Based on Hyperbolic Space](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
@@ -44,7 +44,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2022</div><img src='images/RemoteSensing_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2022</div><img src='/images/RemoteSensing_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Remote Sensing Scene Graph and Knowledge Graph Matching with Parallel Walking Algorithm](https://www.mdpi.com/2072-4292/14/19/4872)
@@ -56,7 +56,7 @@ Cui, Wei, Yuanjie Hao, **Xing Xu**, Zhanyun Feng, Huilin Zhao, Cong Xia, and Jin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='images/RemoteSensing_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='/images/RemoteSensing_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Tailed Effect Study in Remote Sensing Semantic Segmentation Based on Graph Kernel Principles](https://www.mdpi.com/2072-4292/16/8/1398)
