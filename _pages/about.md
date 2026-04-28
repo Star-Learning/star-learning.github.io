@@ -29,28 +29,39 @@ redirect_from:
 
 # 📝 Publications
 
-- Cui W, **Xu X**, Chen J, et al. [Representation of Multi-Relations of Geographic Scenes Based on Hyperbolic Space](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
-- Cui, Wei, Yuanjie Hao, **Xing Xu**, Zhanyun Feng, Huilin Zhao, Cong Xia, and Jin Wang. [Remote Sensing Scene Graph and Knowledge Graph Matching with Parallel Walking Algorithm](https://www.mdpi.com/2072-4292/14/19/4872)[J]. *Remote Sensing* 14, no. 19: 4872, 2022.
-- Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and Chenglei Wang. [Long-Tailed Effect Study in Remote Sensing Semantic Segmentation Based on Graph Kernel Principles](https://www.mdpi.com/2072-4292/16/8/1398)[J]. *Remote Sensing* 16, no. 8: 1398, 2024.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Representation of Multi-Relations of Geographic Scenes Based on Hyperbolic Space](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+
+**Cui W**, **Xu X**, Chen J, et al.
+
+*IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+- 提出基于双曲空间的地理场景多重关系表征方法，有效建模遥感影像中复杂的地理实体关系。
+</div>
+</div>
+
+- Cui, Wei, Yuanjie Hao, **Xing Xu**, Zhanyun Feng, Huilin Zhao, Cong Xia, and Jin Wang. [Remote Sensing Scene Graph and Knowledge Graph Matching with Parallel Walking Algorithm](https://www.mdpi.com/2072-4292/14/19/4872), *Remote Sensing* 14(19): 4872, 2022.
+- Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and Chenglei Wang. [Long-Tailed Effect Study in Remote Sensing Semantic Segmentation Based on Graph Kernel Principles](https://www.mdpi.com/2072-4292/16/8/1398), *Remote Sensing* 16(8): 1398, 2024.
 
 # 📖 Academic Services
 - **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** 审稿人
 - **Remote Sensing** 审稿人
 
 # 🎖 Honors and Awards
-- *2024*: &nbsp; 优秀毕业生党员
-- *2022*: &nbsp; 国家奖学金、校三好学生
-- *2022*: &nbsp; 第十一届"中国软件杯"大学生软件设计大赛-遥感图像智能解译平台赛道国家三等奖
-- *2022*: &nbsp; 高通人工智能创新应用大赛季军
-- *2022/2018*: &nbsp; 全国大学生英语竞赛三等奖（研/本）
-- *2021*: &nbsp; 一等学业奖学金（研究生入学考试第一名）
-- *2021*: &nbsp; 亚马逊·人工智能技术应用大赛三等奖
-- *2021*: &nbsp; 优秀毕业论文：基于辅助信息和图神经网络的遥感模式识别
-- *2019*: &nbsp; 遥感影像稀疏表征与智能分析竞赛二等奖
-- *2016*: &nbsp; 优秀毕业生
-- *2016*: &nbsp; 优秀毕业论文奖
-- *2015*: &nbsp; 国家奖学金
+- *2024*: 优秀毕业生党员
+- *2022*: 国家奖学金、校三好学生
+- *2022*: 第十一届"中国软件杯"大学生软件设计大赛-遥感图像智能解译平台赛道国家三等奖
+- *2022*: 高通人工智能创新应用大赛季军
+- *2022/2018*: 全国大学生英语竞赛三等奖（研/本）
+- *2021*: 一等学业奖学金（研究生入学考试第一名）
+- *2021*: 亚马逊·人工智能技术应用大赛三等奖
+- *2021*: 优秀毕业论文：基于辅助信息和图神经网络的遥感模式识别
+- *2019*: 遥感影像稀疏表征与智能分析竞赛二等奖
+- *2016*: 优秀毕业生
+- *2016*: 优秀毕业论文奖
+- *2015*: 国家奖学金
 
 # 📖 Educations
-- *2021.09 - 2024.06*: &nbsp; 武汉理工大学，地理学，硕士
-- *2015.09 - 2019.06*: &nbsp; 本科
+- *2021.09 - 2024.06*: 武汉理工大学，地理学，硕士
+- *2015.09 - 2019.06*: 本科
