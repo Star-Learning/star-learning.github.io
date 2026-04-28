@@ -5,10 +5,10 @@
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/Star-Learning/acad-homepage.github.io)](https://github.com/Star-Learning/acad-homepage.github.io/blob/main/LICENSE)
+[![](https://img.shields.io/github/stars/Star-Learning/star-learning.github.io)](https://github.com/Star-Learning/star-learning.github.io)
+[![](https://img.shields.io/github/forks/Star-Learning/star-learning.github.io)](https://github.com/Star-Learning/star-learning.github.io)
+[![](https://img.shields.io/github/issues/Star-Learning/star-learning.github.io)](https://github.com/Star-Learning/star-learning.github.io)
+[![](https://img.shields.io/github/license/Star-Learning/star-learning.github.io)](https://github.com/Star-Learning/star-learning.github.io/blob/main/LICENSE)
 </div>
 
 <p align="center">AI算法工程师 · 遥感语义分割 · 地理场景知识图谱</p>
