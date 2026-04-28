@@ -16,12 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-北京数字政通科技股份有限公司 AI算法工程师。硕士毕业于武汉理工大学，地理学专业。
-主要研究方向为遥感语义分割、地理场景知识图谱、图神经网络、时空数据挖掘、AI4Science。
-在 IEEE TGRS、Remote Sensing 等期刊上发表多篇论文。致力于将深度学习技术应用于遥感、GIS、时空预测等领域。
+我是中国科学技术大学在读博士生，师从汪炀老师。研究方向是将AI应用到地球科学领域中，包括但不限于：
+- 时空数据挖掘：气象/自然灾害/污染物浓度的预测与可解释性
+- 遥感图像解译：语义分割、目标检测等
+- 图神经网络：基于图神经网络的地理关系建模
+- LLM Agent：基于大模型Agent构建面向地理任务的pipeline
+在 IEEE TGRS、Remote Sensing 等期刊上发表多篇论文。欢迎同行交流
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 加入中国科学技术大学数据智能实验室攻读博士学位。
 - *2024.07*: &nbsp;🎉 加入北京数字政通科技股份有限公司，担任AI算法工程师。
 - *2024.06*: &nbsp;🎉 硕士毕业，获武汉理工大学硕士学位。
 - *2022.10*: &nbsp;🎉 获国家奖学金。
@@ -29,7 +32,7 @@ redirect_from:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2024</div><img src='images/IEEE_TGRS_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Representation of Multi-Relations of Geographic Scenes Based on Hyperbolic Space](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
@@ -41,8 +44,29 @@ redirect_from:
 </div>
 </div>
 
-- Cui, Wei, Yuanjie Hao, **Xing Xu**, Zhanyun Feng, Huilin Zhao, Cong Xia, and Jin Wang. [Remote Sensing Scene Graph and Knowledge Graph Matching with Parallel Walking Algorithm](https://www.mdpi.com/2072-4292/14/19/4872), *Remote Sensing* 14(19): 4872, 2022.
-- Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and Chenglei Wang. [Long-Tailed Effect Study in Remote Sensing Semantic Segmentation Based on Graph Kernel Principles](https://www.mdpi.com/2072-4292/16/8/1398), *Remote Sensing* 16(8): 1398, 2024.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2022</div><img src='images/RemoteSensing_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Remote Sensing Scene Graph and Knowledge Graph Matching with Parallel Walking Algorithm](https://www.mdpi.com/2072-4292/14/19/4872)
+
+Cui, Wei, Yuanjie Hao, **Xing Xu**, Zhanyun Feng, Huilin Zhao, Cong Xia, and Jin Wang.
+
+*Remote Sensing* 14(19): 4872, 2022.
+- 提出并行游走算法匹配遥感场景图与知识图谱，实现遥感影像中地理实体关系的语义对齐。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2024</div><img src='images/RemoteSensing_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Long-Tailed Effect Study in Remote Sensing Semantic Segmentation Based on Graph Kernel Principles](https://www.mdpi.com/2072-4292/16/8/1398)
+
+Cui, Wei, Zhanyun Feng, Jiale Chen, **Xing Xu**, Yueling Tian, Huilin Zhao, and Chenglei Wang.
+
+*Remote Sensing* 16(8): 1398, 2024.
+- 基于图核原理研究遥感语义分割中的长尾效应，分析类别不平衡对分割性能的影响。
+</div>
+</div>
 
 # 📖 Academic Services
 - **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** 审稿人
