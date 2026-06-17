@@ -1,9 +1,10 @@
 ---
-permalink: /resume/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
+  - /resume/
   - /about/
   - /about.html
 ---
